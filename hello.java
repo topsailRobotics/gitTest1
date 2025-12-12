@@ -10,5 +10,6 @@ public class hello{
         }
 
         System.out.print("I added this in Github!");
+        System.out.print("You can now drink from goon bag");
     }
 }
